@@ -3,7 +3,7 @@ I'm Soyoung Park, a AI engineer from Korea
 
 
 ## Tech stack
-* Programming Language: Python, R <br>
+* Programming Language: Python, SQL, R, C, Html <br>
 * Framework: TensorFlow, PyTorch, Keras, Scikit-learn,  <br>
 * Database: MySQL, MongoDB <br>
 
